@@ -23,8 +23,9 @@
   font-size: 85%;
   }
   
-  #loho h1 {
-    
+  #logo h1 {
+  height: 35px;
+  width: 35px;
   }
   
 }
