@@ -48,5 +48,15 @@
 }
 
 
+@media only screen and (max-width: 900px) {
+[class*="col-"] {
+  margin-left: 0;
+  float: none;
+  
+}
+.border-right {
+  
+}
+}
 
 
