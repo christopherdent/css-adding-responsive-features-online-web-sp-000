@@ -52,11 +52,13 @@
 [class*="col-"] {
   margin-left: 0;
   float: none;
-  
 }
-.border-right {
-  
+
+#navbar nav a {
+  font-size: 0.9em;
 }
+
+  
 }
 
 
