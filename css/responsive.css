@@ -12,10 +12,7 @@
   right: 4px;
   width: auto;
   }  
-  
-    body {
-  font-size: 800%;
-  }
+ 
 }
 
 
@@ -54,6 +51,7 @@
 
 @media only screen and (max-width: 750px) {
 [class*="col-"] {
+  width: ;
   margin-left: 0;
   float: none;
 }
