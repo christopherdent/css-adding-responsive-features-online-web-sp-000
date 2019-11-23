@@ -48,13 +48,15 @@
 }
 
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 750px) {
 [class*="col-"] {
   margin-left: 0;
   float: none;
 }
 
-
+#navbar nav a {
+  font-size: 0.9em;
+}
 
   
 }
