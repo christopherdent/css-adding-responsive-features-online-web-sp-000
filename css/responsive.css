@@ -63,11 +63,11 @@
 
 
 
-  div#details {
+  div #details {
     height: auto;
   }
   
-    col-3 p {
+  col-3 p {
   column-count:1;
   }
   
