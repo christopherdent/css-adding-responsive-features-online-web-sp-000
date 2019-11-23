@@ -20,6 +20,11 @@
   
 @media only screen and (max-width: 1108px) {
   body {
-    =85%
+  font-size: 85%;
   }
+  
+  #loho h1 {
+    
+  }
+  
 }
